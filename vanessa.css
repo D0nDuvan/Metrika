@@ -1,0 +1,19 @@
+@font-face {
+
+    font-family: titulos;
+    src: url(Archivos/font/BarlowCondensed-Bold.ttf);
+}
+body{
+        margin: 0 !important;
+    padding: 0 !important;
+     box-sizing: border-box !important;
+    background-color:black !important;
+background-size: 100%;
+overflow-x: hidden;
+}
+:root{
+
+    --red-1: #fdad00 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
